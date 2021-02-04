@@ -1,8 +1,9 @@
-# Fire
+ ![FirecoinLogo](FirecoinLogo.png "By Reggie Johnson")
+# Fire Core Integration/staging tree
 Experimental digital currency that enables instant payments to anyone, anywhere in the world. A decentralized peer to peer network that manages transactions. 
 
-## Vision Statement  
-For beginners who want gain experience trading crypto currencies without the financial risk. The Rockchain Client application is a crypto exchange simulatar that will allow users to simulate purchasing and selling cryptocurrencies (using Fire) and live market data. This site will allow users to achieve fiscal milestones and assess market trends, information and tips. This app can offer trading alerts, and send push notifications based on market crash or bull run signals. This product gives users access to an experimental digital currency called Firecoin which offers the full range of mining/staking and lending capabilities using network of nodes called Nature. Unlike current DeFi protocols, our decentralized exchange will allow users to perform all crypto trading and staking operations without the risk of losing real money. 
+## What is Fire   
+Fire is  The Rockchain Client application is a crypto exchange simulatar that will allow users to simulate purchasing and selling cryptocurrencies (using Fire) and live market data. This site will allow users to achieve fiscal milestones and assess market trends, information and tips. This app can offer trading alerts, and send push notifications based on market crash or bull run signals. This product gives users access to an experimental digital currency called Firecoin which offers the full range of mining/staking and lending capabilities using network of nodes called Nature. Unlike current DeFi protocols, our decentralized exchange will allow users to perform all crypto trading and staking operations without the risk of losing real money. 
 
 ## Diagrams 
 
