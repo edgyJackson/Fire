@@ -1,4 +1,4 @@
- ![FirecoinLogo](FirecoinLogo.png "By Reggie Johnson")
+ ![FirecoinLogo1](FirecoinLogo1.png "By Reggie Johnson")
 # Fire Core Integration/staging tree
 Experimental digital currency that enables instant payments to anyone, anywhere in the world. A decentralized peer to peer network that manages transactions. 
 
